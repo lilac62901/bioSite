@@ -1,2 +1,10 @@
-# bioSite
- This is an assignment for my class in where I will create a biosite about someone I know.
+<html>
+<body>
+<h1>WEB 200 Fundamentals of Web Development</h1>
+<h2>Contributors</h2>
+<ul>
+<li>Cristy Cross</li>
+<li>Lori Thompson</li>
+</ul>
+</body>
+</html>
