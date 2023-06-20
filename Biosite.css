@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(137,100,117);
+    color: rgb(177,189,201);
+    font-family: 'Avenir', Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    text-align: left;
+}
+h1 {
+    color: rgb(177,189,201);
+    font-family: 'Avenir light', Arial, Helvetica, sans-serif;
+    font-size: 62pt;
+    text-align: left;
+    z-index: 1;
+    position: relative;
+    margin-left: 20px;
+    margin-top: -2px;
+    
+}
+h2 {
+    color: rgb(177,189,201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48pt;
+    text-align: right;
+    text-shadow: 2px 2px 7px rgba(0,0,0,.5);
+    margin-top: -90px;
+    margin-right: 20px;
+}
+.menu {
+    font-family: 'Avenir', Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    color: rgb(177,189,201);
+    text-align: center;
+    margin-top: -30px;
+}
+.infobox {
+    background-color: rgba(0,0,0,.5);
+}
+a:link {
+    color: rgb(177,189,201);
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+#photo {
+    margin-top: -85px;
+}
+.images {
+    text-align: center;
+}
