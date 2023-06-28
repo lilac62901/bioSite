@@ -52,3 +52,12 @@ a:hover {
 .images {
     text-align: center;
 }
+h3 {
+    font-family: 'Avenir', Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+p {
+    text-indent: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
