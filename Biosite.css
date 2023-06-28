@@ -61,3 +61,10 @@ p {
     margin-left: 30px;
     margin-right: 30px;
 }
+#images {
+    float: right;
+    width: 150px;
+}
+.image {
+    text-align: right;
+}
