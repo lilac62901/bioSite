@@ -71,7 +71,7 @@ p {
 footer {
     background-color: rgb(177,189,201);
     color: black;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
