@@ -68,3 +68,15 @@ p {
     float: right;
     width: 150px;
 }
+footer {
+    background-color: rgb(177,189,201);
+    color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer p {
+    float: right;
+    font-style: italic;
+    font-size: .75em;
+}
