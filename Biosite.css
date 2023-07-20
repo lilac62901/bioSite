@@ -1,18 +1,18 @@
 body {
     background-color: rgb(137,100,117);
-    color: rgb(177,189,201);
+    color: white;
     font-family: 'Avenir', Arial, Helvetica, sans-serif;
     font-size: 16pt;
     text-align: left;
 }
 h3 {
-    color: rgb(177,189,201);
+    color: white;
     font-family: 'Avenir light', Arial, Helvetica, sans-serif;
     font-size: 36pt;
     margin-top: -60px;
 }
 h1 {
-    color: rgb(177,189,201);
+    color: white;
     font-family: 'Avenir light', Arial, Helvetica, sans-serif;
     font-size: 62pt;
     text-align: left;
@@ -23,7 +23,7 @@ h1 {
     
 }
 h2 {
-    color: rgb(177,189,201);
+    color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: 48pt;
     text-align: right;
@@ -34,12 +34,12 @@ h2 {
 .menu {
     font-family: 'Avenir', Arial, Helvetica, sans-serif;
     font-size: 16pt;
-    color: rgb(177,189,201);
+    color: white;
     text-align: center;
     margin-top: -30px;
 }
 a:link {
-    color: rgb(177,189,201);
+    color: white;
     text-decoration: none;
 }
 a:visited {
